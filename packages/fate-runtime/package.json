@@ -1,0 +1,29 @@
+{
+  "name": "@dreamoment/fate-runtime",
+  "version": "0.0.1",
+  "description": "> TODO: description",
+  "author": "DASU\\ldl47 <473613943@qq.com>",
+  "homepage": "https://github.com/dreamoment/fate#readme",
+  "license": "MIT",
+  "main": "lib/fate-runtime.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dreamoment/fate.git"
+  },
+  "scripts": {
+    "test": "node ./__tests__/@dreamoment/fate-runtime.test.js"
+  },
+  "bugs": {
+    "url": "https://github.com/dreamoment/fate/issues"
+  }
+}
